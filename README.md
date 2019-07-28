@@ -8,12 +8,19 @@ El presente curso tiene como propósito entregar conceptos técnicos iniciales p
 OBJETIVOS
 
 Conocer de forma básica el concepto de soporte técnico para Mac.
+
 Conocer la tecnología Mac.
+
 Identificar los tipos de mantenimiento para Mac y sus componentes básicos.
+
 Conocer los tipos de equipos Mac y sus versiones de macOS.
+
 Gestionar las herramientas de soporte y configuración de macOS.
+
 Gestionar la instalación y configuración de dispositivos.
+
 Valorar el potencial creativo y profesional de la actividad de soporte técnico.
+
 
 Descripción del módulo:
 
