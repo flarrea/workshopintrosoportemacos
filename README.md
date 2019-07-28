@@ -3,7 +3,7 @@
 
 Conceptos básicos de soporte técnico para macOS
 
-El presente curso tiene como propósito entregar conceptos técnicos iniciales para realizar soporte y mantenimiento a equipos MAC. Al final del curso, el participante podrá realizar soporte y mantenimiento a los equipos MAC con macOS xx.xx. 
+El presente curso tiene como propósito entregar conceptos técnicos iniciales para realizar soporte y mantenimiento a equipos MAC. Al final del curso, el participante podrá realizar soporte y mantenimiento a los equipos MAC con macOS.
 
 OBJETIVOS
 
