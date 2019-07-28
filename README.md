@@ -5,7 +5,9 @@ Conceptos básicos de soporte técnico para macOS
 
 <p align="justify">El presente curso tiene como propósito entregar conceptos técnicos iniciales para realizar soporte y mantenimiento a equipos MAC. Al final del curso, el participante podrá realizar soporte y mantenimiento a los equipos MAC con macOS.
 
+
 OBJETIVOS
+
 
 1.Conocer de forma básica el concepto de soporte técnico para Mac.
 
@@ -23,6 +25,7 @@ OBJETIVOS
 
 
 Descripción del módulo:
+
 
 Lección 1: Introducción a macOS
 
@@ -84,6 +87,7 @@ Lección 28: Resolver problemas del sistema y con el arranque
 
 METODOLOGÍA
 
+
 <p align="justify">Se utilizará una modalidad constructiva-interactiva, mediante la realización de clases que privilegien el aprendizaje práctico y contextualizado, con atención al alumno y a sus intereses específicos.</p>
  
 <p align="justify">Las actividades de clase serán guiadas y evaluadas en forma permanente por el relator, quien aprovechará toda oportunidad disponible para repasar y demostrar aquellos aspectos de la operación regular, que por su complejidad no es posible explicarlos en forma general.</p>
@@ -92,5 +96,6 @@ METODOLOGÍA
 
 
 EVALUACION
+
 
 <p align="justify">Cada clase constará de una explicación breve sobre las operaciones, luego la práctica del alumno en un laboratorio, y finalmente, un ejercicio evaluado acumulativo. Al final del curso se realizará un ejercicio donde el alumno pueda demostrar su aprendizaje.</p>
