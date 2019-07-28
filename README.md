@@ -3,7 +3,7 @@
 
 Conceptos básicos de soporte técnico para macOS
 
-El presente curso tiene como propósito entregar conceptos técnicos iniciales para realizar soporte y mantenimiento a equipos MAC. Al final del curso, el participante podrá realizar soporte y mantenimiento a los equipos MAC con macOS.
+<p align="justify">El presente curso tiene como propósito entregar conceptos técnicos iniciales para realizar soporte y mantenimiento a equipos MAC. Al final del curso, el participante podrá realizar soporte y mantenimiento a los equipos MAC con macOS.
 
 OBJETIVOS
 
@@ -84,12 +84,13 @@ Lección 28: Resolver problemas del sistema y con el arranque
 
 METODOLOGÍA
 
-Se utilizará una modalidad constructiva-interactiva, mediante la realización de clases que privilegien el aprendizaje práctico y contextualizado, con atención al alumno y a sus intereses específicos.
+<p align="justify">Se utilizará una modalidad constructiva-interactiva, mediante la realización de clases que privilegien el aprendizaje práctico y contextualizado, con atención al alumno y a sus intereses específicos.</p>
  
-Las actividades de clase serán guiadas y evaluadas en forma permanente por el relator, quien aprovechará toda oportunidad disponible para repasar y demostrar aquellos aspectos de la operación regular, que por su complejidad no es posible explicarlos en forma general.
-Este es un curso eminentemente práctico, donde el relator expone los conceptos básicos, apoyado por medios audiovisuales, luego realiza las demostraciones y con una metodología orientada en el alumno como ser activo, permitirá que ellos puedan realizar las mismas actividades supervisados por el relator.
+<p align="justify">Las actividades de clase serán guiadas y evaluadas en forma permanente por el relator, quien aprovechará toda oportunidad disponible para repasar y demostrar aquellos aspectos de la operación regular, que por su complejidad no es posible explicarlos en forma general.</p>
+ 
+<p align="justify">Este es un curso eminentemente práctico, donde el relator expone los conceptos básicos, apoyado por medios audiovisuales, luego realiza las demostraciones y con una metodología orientada en el alumno como ser activo, permitirá que ellos puedan realizar las mismas actividades supervisados por el relator.</p>
 
 
 EVALUACION
 
-Cada clase constará de una explicación breve sobre las operaciones, luego la práctica del alumno en un laboratorio, y finalmente, un ejercicio evaluado acumulativo. Al final del curso se realizará un ejercicio donde el alumno pueda demostrar su aprendizaje.
+<p align="justify">Cada clase constará de una explicación breve sobre las operaciones, luego la práctica del alumno en un laboratorio, y finalmente, un ejercicio evaluado acumulativo. Al final del curso se realizará un ejercicio donde el alumno pueda demostrar su aprendizaje.</p>
